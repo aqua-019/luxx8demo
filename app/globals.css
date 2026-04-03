@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: #0B0F18; }
+body { min-height: 100vh; }
+button, input, textarea, select { font: inherit; }
